@@ -24,7 +24,9 @@ SECRET_KEY = 'django-insecure-#kfz(&+ra1by8r1fbqlg=z$3w+@a$iq&89&0w*+(o81@&=n#%p
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '127.0.0.1', 'localhost', 'task-management-sys-ia5t.onrender.com'
+    'task-management-sys-4sq0.onrender.com', 
+    'localhost', 
+    '127.0.0.1'
 ]
 
 # Application definition
